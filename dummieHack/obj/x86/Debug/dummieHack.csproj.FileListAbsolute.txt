@@ -1,0 +1,45 @@
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\bin\Debug\dummieHack.exe
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\bin\Debug\dummieHack.pdb
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\dummieHack.FrmPrincipal.resources
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\dummieHack.Properties.Resources.resources
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\dummieHack.exe
+C:\Users\Juan y Carla\Desktop\HACKEO LIBROS TAURO\dummieHack\dummieHack\obj\x86\Debug\dummieHack.pdb
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\bin\Debug\dummieHack.exe.config
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\bin\Debug\dummieHack.exe
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\bin\Debug\dummieHack.pdb
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.About.resources
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.FrmPrincipal.resources
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.Properties.Resources.resources
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.Resources.resources
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.exe
+C:\Users\Juan y Carla\Desktop\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.pdb
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.About.resources
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.FrmPrincipal.resources
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.Properties.Resources.resources
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.Resources.resources
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\bin\Debug\dummieHack.exe.config
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\bin\Debug\dummieHack.exe
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\bin\Debug\dummieHack.pdb
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.exe
+C:\Users\Juan y Carla\HACK LIBROS TAURO\Aplicación\dummieHack\dummieHack\obj\x86\Debug\dummieHack.pdb
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\bin\Debug\dummieHack.exe.config
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\dummieHack.exe
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\dummieHack.pdb
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\bin\Debug\dummieHack.exe
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\bin\Debug\dummieHack.pdb
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\dummieHack.About.resources
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\dummieHack.FrmPrincipal.resources
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\dummieHack.Properties.Resources.resources
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\dummieHack.Resources.resources
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jsalinas\DUMMIE_HACK\dummieHack\obj\x86\Debug\GenerateResource.write.1.tlog
